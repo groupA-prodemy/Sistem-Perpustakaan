@@ -7,6 +7,7 @@ import javax.persistence.*;
 @Table (name = "tb_buku")
 
 public class tes1 {
+    //Testing Satu
 
     @Id
     @GeneratedValue
